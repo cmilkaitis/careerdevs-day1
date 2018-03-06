@@ -1,0 +1,47 @@
+    1  pwd
+    2  cd /
+    3  pwd
+    4  cd home
+    5  cd /
+    6  cd /home
+    7  pwd
+    8  cd ubuntu/workspace
+    9  pwd
+   10  cd /
+   11  cd home
+   12  cd ubuntu/workspace
+   13  pwd
+   14  ls
+   15  ls -a
+   16  cd .
+   17  pwd
+   18  cd ..
+   19  home
+   20  cd workspace
+   21  ls -a
+   22  cd client
+   23  pwd
+   24  cd ~/workspace
+   25  cd
+   26  pwd
+   27  cd workspace
+   28  mkdir 3-1chris
+   29  cd 3-1chris/
+   30  cd ..
+   31  cd 3-1milkaitis/
+   32  mkdir 3-1milkaitis
+   33  ls
+   34  touch 3-1chris/myfile.txt
+   35  ls
+   36  cat >> 3-1chris/myfile.txt
+   37  cat 3-1chris/myfile.txt
+   38  cp 3-1chris/myfile.txt 3-1milkaitis/my2ndfile.txt
+   39  ls -l
+   40  chmod 666 3-1chris/
+   41  ls -l
+   42  chmod 666 3-1milkaitis/my2ndfile.txt 
+   43  vi 3-1milkaitis/my2ndfile.txt 
+   44  cat 3-1milkaitis/my2ndfile.txt 
+   45  vi 3-1milkaitis/my2ndfile.txt 
+   46  cat 3-1milkaitis/my2ndfile.txt 
+   47  history > chris-milkaitis-history.txt
